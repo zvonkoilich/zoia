@@ -1,1 +1,23 @@
-{}
+{
+    "Feedback": "Повратне информације",
+    "Should not be empty": "Обавезно поље",
+    "Too short": "Сувише кратка вредност",
+    "Too long": "Сувише дугачка вредност",
+    "Doesn't match required format": "Не одговара захтеваном формату",
+    "Passwords do not match": "Лозинке се не поклапају",
+    "You can send us a message by filling the form below. All fields except e-mail and phone number are mandatory, but this might be a good idea to leave us your contact information if you need a reply.": "Користите образац, који се налази испод за слање поруке. Сва поља, осим контакт информације су обавезни (да би смо могли да Вас контактирамо, потребно је да оставите свој број телефона или адресу е-поште).",
+    "Name": "Ваше име",
+    "E-mail": "Адреса е-поште",
+    "Phone": "Број телефона",
+    "Message": "Текст поруке",
+    "Type a message you wish to send": "Унесите поруку коју желите да пошаљете",
+    "Your name or pseudonym": "Ваше име или надимак",
+    "Your e-mail address": "Ваша адреса е-поште",
+    "Your phone number including country code": "Телефонски број, укључујући и позивни број земље и града",
+    "Send message": "Пошаљи поруку",
+    "Code": "Код са слике",
+    "New Feedback Message": "Нова порука са сајта",
+    "New message received from your feedback form.": "Нова порука је примљена преко обрасца са сајта.",
+    "Your message has been sent. Thank you!": "Ваша порука је успешно послата. Хвала!",
+    "Could not send your message right now": "Грешка приликом слања поруке"
+}
