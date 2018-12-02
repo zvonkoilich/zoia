@@ -18,7 +18,7 @@ module.exports = function(app) {
     app.get('log').info('[hosting] module loaded');
     return {
         frontend: {
-            prefix: '/hosting',
+            prefix: '/customer',
             routes: frontend.routes,
             filters: frontend.filters
         },

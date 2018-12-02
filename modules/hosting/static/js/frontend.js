@@ -29,7 +29,7 @@
         $('#zoia_btn_topup').hide();
         $.ajax({
             type: 'POST',
-            url: '/hosting/payment/request',
+            url: '/customer/payment/request',
             data: {
                 sum: sum
             },
@@ -92,7 +92,7 @@
     const checkAccountStatus = (id) => {
         $.ajax({
             type: 'GET',
-            url: '/api/hosting/account/create/status',
+            url: '/api/customer/account/create/status',
             data: {
                 id: id
             },
@@ -218,7 +218,7 @@
                     }
                 },
                 save: {
-                    url: '/api/hosting/account/create',
+                    url: '/api/customer/account/create',
                     method: 'POST'
                 },
                 items: {
@@ -361,7 +361,7 @@
                     }
                 },
                 save: {
-                    url: '/api/hosting/account/extend',
+                    url: '/api/customer/account/extend',
                     method: 'POST'
                 },
                 items: {
